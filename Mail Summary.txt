@@ -1,0 +1,12 @@
+********************** Mail Summary ********************
+
+==> support@apple-service.com is not an official Apple domain
+==> There are some suspicious link,
+http://apple-id-verification-secure.com/login
+support@apple-service.com  
+==> Used threatening and urgent language like, 
+[URGENT] Your Apple ID has been locked – Action Required Immediately!
+Failure to verify within 24 hours will result in **permanent deactivation** of your Apple ID
+==>The file attached is double extension file :Apple_Security_Report.pdf.exe
+==>There is not any major grammar mistakes
+==> This is the phishing mail which is for phishing the Apple id. from this mail user can be scarred from deactivating their account and they can click on the phishing link then their data can be theft and account can be compromised.

@@ -1,0 +1,29 @@
+*********************** Sample Mail: ****************************
+
+From: Apple Support <support@apple-service.com>
+To: user@example.com
+Subject: [URGENT] Your Apple ID has been locked – Action Required Immediately!
+Date: Mon, 27 May 2025 10:34:22 +0530
+
+Dear Customer,
+
+We have detected unusual activity in your Apple ID account. For your protection, your account has been temporarily suspended.
+
+To unlock your account and avoid permanent suspension, please verify your identity by clicking the secure link below:
+
+👉 [Verify My Apple ID Now](http://apple-id-verification-secure.com/login)
+
+Failure to verify within 24 hours will result in **permanent deactivation** of your Apple ID. This action is taken to prevent unauthorized access and protect your data.
+
+Attached is a copy of the report for your reference: **Apple_Security_Report.pdf.exe**
+
+We apologize for any inconvenience. Your security is our top priority.
+
+Sincerely,  
+Apple ID Support Team  
+support@apple-service.com  
+
+---
+
+CONFIDENTIALITY NOTICE: This email is intended only for the individual named. Please do not forward.
+
